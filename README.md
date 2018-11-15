@@ -1,0 +1,1 @@
+SolidarityComputing Client Daemon
